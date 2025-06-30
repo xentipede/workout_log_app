@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "149427565389",
+    "project_id": "workout-log-sync",
+    "storage_bucket": "workout-log-sync.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149427565389:android:f24ad20f6aa69d7e5a7d04",
+        "android_client_info": {
+          "package_name": "com.example.workout_log_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdiN-4Nc_NplvwFpPfl1K7gJLVruJVD8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
